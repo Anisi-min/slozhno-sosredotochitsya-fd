@@ -3,12 +3,13 @@
   --tx-color: #353430;
   --bg-img: url(../images/cover-image-light.png);
   --button-color: #353430;
+  --but-hover-color:#32312d66;
   --tl-color: #FFC2E6;
   --accent-color: #ff8dcb;
   --tl-content-color: #353430;
   --decor-color: #353430;
   --color-icon: transparent;
-  --bg-color: #FFC2E6;
+  --bg-color: #FFEFF6;
 }
 
 @media (prefers-color-scheme: light) {
@@ -16,11 +17,13 @@
     --tx-color: #353430;
     --bg-img: url(../images/cover-image-light.png);
     --button-color: #353430;
+    --but-hover-color:#32312d66;
     --tl-color: #FFC2E6;
     --accent-color: #ff8dcb;
     --tl-content-color: #353430;
     --decor-color: #353430;
     --color-icon: transparent;
-    --bg-color: #FFC2E6;
+    --bg-color: #FFEFF6;
+    
   }
 }

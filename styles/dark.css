@@ -1,11 +1,12 @@
-
 :root.theme-dark {
   --tx-color: #F1B2CE;
   --bg-img: url(../images/cover-image-dark.png);
   --button-color: #ff0070;
+  --but-hover-color: #ff007066;
   --color-icon: #ff0070;
   --tl-color: #DB00FF;
-  --accent-color: #ff0070; 
+  --accent-color: #ff0070;
   --tl-content-color: #ff0070;
   --decor-color: #000028;
+  --bg-color: #000330;
 }
